@@ -1,3 +1,3 @@
 <?php
-	echo "Olá PHP! Fiz uma lateração.";
+	echo "Olá PHP! Fiz uma alteração.";
 ?>
